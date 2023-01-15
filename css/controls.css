@@ -424,9 +424,12 @@ textarea[readonly].custom-textbox {
 
 .footer {
   text-align: center;
-  padding: 3px;
+  padding: 2px;
+  margin-top: 0.5cm;
+  margin-bottom: 0.5cm;
   background-color: DarkSalmon;
   color: white;
+  border-radius: 1em;
 }
 
 @-webkit-keyframes pulse-info {
